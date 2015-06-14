@@ -1,0 +1,25 @@
+{
+    "name": "lukaserat/webmozart-json-laravel",
+    "description": "A webmozart/json service provider for Laravel",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "require": {
+        "webmozart/json": "1.0.0",
+        "illuminate/support": "5.0",
+        "phpunit/phpunit": "^5.0@dev",
+    },
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "Lukaserat Jonjonvi",
+            "email": "dev.lukaserat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lukaserat\\WebmozartJson\\": "src/"
+        }
+    }
+}
