@@ -24,7 +24,7 @@ class JsonServiceProvider extends ServiceProvider {
     public function boot()
     {
         AliasLoader::getInstance()->alias(
-            'LukaseratJson', 'Lukaserat\WebmozartJson\JasonFacade'
+            'JsonHelper', 'Lukaserat\WebmozartJson\JasonFacade'
         );
     }
 
