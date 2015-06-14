@@ -5,10 +5,10 @@
     "license": "MIT",
     "require": {
         "webmozart/json": "1.0.0",
-        "illuminate/support": "5.0",
-        "phpunit/phpunit": "^5.0@dev",
+        "illuminate/support": "5.0"
     },
     "require-dev": {
+        "phpunit/phpunit": "^5.0@dev"
     },
     "authors": [
         {
