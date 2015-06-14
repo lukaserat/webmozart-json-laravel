@@ -1,7 +1,7 @@
 {
     "name": "lukaserat/webmozart-json-laravel",
     "description": "A webmozart/json service provider for Laravel",
-    "type": "composer-plugin",
+    "keywords": ["laravel", "webmozart", "json"],
     "license": "MIT",
     "require": {
         "webmozart/json": "1.0.0",
